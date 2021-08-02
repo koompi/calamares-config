@@ -4,10 +4,10 @@ componentName:  KOOMPI_OS
 strings:
     productName:         KOOMPI OS
     shortProductName:    KOOMPI OS 
-    version:             2.6.0
-    shortVersion:        2.6.0
-    versionedName:       KOOMPI OS 2.6.0
-    shortVersionedName:  KOOMPI OS 2.6.0
+    version:             2.7.0
+    shortVersion:        2.7.0
+    versionedName:       KOOMPI OS 2.7.0
+    shortVersionedName:  KOOMPI OS 2.7.0
     bootloaderEntryName: KOOMPI_OS
 
 images:
