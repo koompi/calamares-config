@@ -1,7 +1,7 @@
 # Maintainer: Jguer <joaogg3@gmail.com>
 pkgname=koompi-oem-calamares
 pkgver=2.7.1
-pkgrel=1
+pkgrel=2
 pkgdesc="Configuration for Calamares within KOOMPI OS"
 arch=('x86_64')
 url="https://github.com/koompi/calamares-config"
